@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v1.4/tanu_voice_assistant.apk",
-  "releaseNotes": "Tanu AI Voice Assistant updated with latest Gemini features & AI Studio improvements!"
+  "versionCode": 5,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v1.5/tanu_voice_assistant.apk",
+  "releaseNotes": "Enhanced auth, data models, and sync logic updated from AI Studio!"
 }

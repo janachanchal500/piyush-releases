@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v1.8/tanu_voice_assistant.apk",
-  "releaseNotes": "Tanu AI v1.8: Fixed live connection with active Google AI Studio Gemini models (gemini-3.5-flash, gemini-3.5-flash-lite), added 7s handshake timeout fallback."
+  "versionCode": 20,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v2.0/tanu_voice_assistant.apk",
+  "releaseNotes": "Tanu AI v2.0: In-app auto-update enabled! AI Studio feature sync and device control tools integrated."
 }

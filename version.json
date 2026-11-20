@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v1.7/tanu_voice_assistant.apk",
-  "releaseNotes": "Tanu AI v1.7: Fixed Gemini Live connection (LINK INTERRUPTED) with dedicated GCP key & model fallbacks, App Check fix, error recovery."
+  "versionCode": 8,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v1.8/tanu_voice_assistant.apk",
+  "releaseNotes": "Tanu AI v1.8: Fixed live connection with active Google AI Studio Gemini models (gemini-3.5-flash, gemini-3.5-flash-lite), added 7s handshake timeout fallback."
 }

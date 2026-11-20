@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v1.5/tanu_voice_assistant.apk",
-  "releaseNotes": "Enhanced auth, data models, and sync logic updated from AI Studio!"
+  "versionCode": 6,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v1.6/tanu_voice_assistant.apk",
+  "releaseNotes": "Tanu AI v1.6: Fixed Google Sign-In with verified OAuth client & added Profile Setup (Name & Gender)."
 }

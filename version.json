@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v1.6/tanu_voice_assistant.apk",
-  "releaseNotes": "Tanu AI v1.6: Fixed Google Sign-In with verified OAuth client & added Profile Setup (Name & Gender)."
+  "versionCode": 7,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v1.7/tanu_voice_assistant.apk",
+  "releaseNotes": "Tanu AI v1.7: Fixed Gemini Live connection (LINK INTERRUPTED) with dedicated GCP key & model fallbacks, App Check fix, error recovery."
 }

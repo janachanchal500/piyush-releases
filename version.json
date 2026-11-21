@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/download/v2.0/tanu_voice_assistant.apk",
-  "releaseNotes": "Tanu AI v2.0: In-app auto-update enabled! AI Studio feature sync and device control tools integrated."
+  "versionCode": 21,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/janachanchal500/piyush-releases/releases/latest/download/tanu_voice_assistant.apk",
+  "releaseNotes": "Live Voice channel fixed with Gemini 3.1 Live Preview! Instant microphone input & voice response."
 }
